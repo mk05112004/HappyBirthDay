@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #ff69b4;
+  color: #fff;
+  padding: 20px;
+}
+
+.main-content {
+  margin: 20px;
+}
+
+#countdown {
+  margin: 20px;
+}
+
+#timer {
+  font-size: 24px;
+}
+
+#gifts {
+  margin: 20px;
+}
+
+footer {
+  background-color: #ff69b4;
+  color: #fff;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
